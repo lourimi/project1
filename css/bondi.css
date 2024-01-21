@@ -31,6 +31,18 @@ background: #eee;
   #azer form {
     /* You can further style the form inside the floating overlay */
   }
+.navbar-brand {
+  background-color: #018dbe;
+  color: #ffffff;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 0px 20px;
+  border-radius: 20px;
+  font-family: "Pacifico", cursive;
+}
+.navbar-brand:hover {
+  color: #ffffff;
+}
 /* 5edma ta3y */
 
 .main-btn{
